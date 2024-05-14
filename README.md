@@ -8,3 +8,11 @@ you can contribute to this repository by
 
 ## upcoming 
 i have a way to make html forms using python code. once its done we can see about combinding everything all into one tool (have a form for create and updating auto generated)
+
+
+call the main script from the directory in wich you wish to have the files with generated code be created (if not exists)
+
+```
+python3 ~/sql.py
+```
+or wich ever directory its in
