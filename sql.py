@@ -1,7 +1,5 @@
 import sys
 from colors import red, green, blue, yellow
-
-
 import os
     
 def get_folder_name() -> str:
